@@ -1,3 +1,1 @@
-kadapa
-tirupati
-
+bangalore
